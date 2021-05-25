@@ -4,7 +4,8 @@
 const Aadameqq = {
  technologies:["Javascript","Node.js","Mysql","MongoDB","HTML","CSS","SCSS",
  "Typescript","discord.js","socket.io","react","express.js"],
- website:""
+ website:"",
+ favoriteCodeEditor:"vscode"
 }
 ```
 
