@@ -1,4 +1,4 @@
-### 👋Hi, I'm Adam and I am a Javascript developer
+### 👋Hi, My name is Adam and I am a Javascript developer
 
 ```javascript
 const Aadameqq = {
