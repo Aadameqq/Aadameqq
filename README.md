@@ -2,8 +2,8 @@
 
 ```javascript
 const Aadameqq = {
- technologies:["Javascript","Node.js","Mysql","MongoDB","HTML","CSS","SCSS",
- "Typescript","discord.js","socket.io","react","express.js"],
+ technologies:["Javascript","Node.js","Mysql","MongoDB","HTML","CSS","SCSS","Bootstrap","Ejs",
+ "Typescript","discord.js","socket.io","React","express.js"],
  website:"",
  favoriteCodeEditor:"vscode"
 }
