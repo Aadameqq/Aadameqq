@@ -3,9 +3,11 @@
 ```javascript
 const Aadameqq = {
  technologies:["Javascript","Node.js","Mysql","MongoDB","HTML","CSS","SCSS","Bootstrap","Ejs",
- "Typescript","discord.js","socket.io","React","express.js"],
+ "Typescript","Discord.js","Socket.io","React","Express.js","Redux"],
+ tools:["Figma", "Eslint", "Webpack"],
  website:"",
- favoriteCodeEditor:"vscode"
+ currentlyLearning:["React"],
+ favoriteCodeEditor:"Visual Studio Code"
 }
 ```
 
