@@ -6,7 +6,7 @@ const Aadameqq = {
  "Typescript","Discord.js","Socket.io","React","Express.js","Redux"],
  tools:["Figma", "Eslint", "Webpack"],
  website:"",
- currentlyLearning:["React"],
+ currentlyLearning:["Clean code"],
  favoriteCodeEditor:"Visual Studio Code"
 }
 ```
