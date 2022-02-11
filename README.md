@@ -3,7 +3,7 @@
 ```javascript
 const Aadameqq = {
  technologies:["Javascript","Node.js","Mysql","MongoDB","HTML","CSS","SCSS","Bootstrap","Ejs",
- "Typescript","Discord.js","Socket.io","React","Express.js","Redux"],
+ "Typescript","Discord.js","Socket.io","React","Express.js","Redux","Jest","Styled Components", ],
  tools:["Figma", "Eslint", "Webpack"],
  website:"",
  currentlyLearning:["Clean Architecture"],
