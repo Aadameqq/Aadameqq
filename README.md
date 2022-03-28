@@ -4,10 +4,10 @@
 const Adam = {
  technologies:["Javascript","Node.js","Mysql","MongoDB","HTML","CSS","SCSS","Bootstrap","Ejs",
  "Typescript","Discord.js","Socket.io","React","Express.js","Redux","Jest","Styled Components","Next.js",
- "Oauth2 protocol" ],
- tools:["Figma", "Eslint", "Webpack"],
+ "Oauth2" ],
+ tools:["Figma", "Eslint", "Webpack","Nginx","Git"],
  website:"",
- currentlyLearning:["Clean Architecture"],
+ currentlyLearning:["Golang"],
  favoriteIDE:"Webstorm",
  hobbies:["mountain biking", "math", "coding"]
 }
