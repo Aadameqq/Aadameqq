@@ -7,7 +7,7 @@ const Adam = {
  "Oauth2" ],
  tools:["Figma", "Eslint", "Webpack","Nginx","Git"],
  website:"",
- currentlyLearning:["Golang"],
+ currentlyLearning:["Golang","Algorithms"],
  favoriteIDE:"Webstorm",
  hobbies:["mountain biking", "math", "coding"]
 }
