@@ -14,4 +14,6 @@ const Adam = {
 
 ```
 
+#### If you need a website, just contact me via discord: Aadameqq#7196
+
  <h2 align="center">⚙ My projects ⚙</h2>
