@@ -4,7 +4,7 @@
 const Adam = {
  technologies:["Javascript","Node.js","Mysql","MongoDB","HTML","CSS","SCSS","Bootstrap","Ejs",
  "Typescript","Discord.js","Socket.io","React","Express.js","Redux","Jest","Styled Components","Next.js",
- "Oauth2","GoLang","Puppeteer","Redis" ],
+ "Oauth2","GoLang","Puppeteer","Redis","Nest.js ],
  tools:["Figma", "Eslint", "Webpack","Nginx","Git"],
  website:"",
  currentlyLearning:["Golang"],
