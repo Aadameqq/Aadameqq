@@ -7,7 +7,7 @@ const Adam = {
  "Oauth2","GoLang","Puppeteer","Redis","Nest.js" ],
  tools:["Figma", "Eslint", "Webpack","Nginx","Git"],
  website:"",
- currentlyLearning:["Golang"],
+ currentlyLearning:["Nest.js"],
  favoriteIDE:"Webstorm",
  hobbies:["mountain biking", "math", "coding"],
 }
