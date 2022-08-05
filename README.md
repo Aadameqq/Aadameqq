@@ -3,8 +3,8 @@
 ```javascript
 const Adam = {
  technologies:["Javascript","Node.js","Mysql","MongoDB","HTML","CSS","SCSS","Bootstrap","Ejs",
- "Typescript","Discord.js","Socket.io","React","Express.js","Redux","Jest","Styled Components","Next.js",
- "Oauth2","GoLang","Puppeteer","Redis","Nest.js" ],
+ "Typescript","Socket.io","React","Express.js","Jest","Styled Components","Next.js",
+ "Oauth2","GoLang","Puppeteer","Redis","Nest.js","Swagger" ],
  tools:["Figma", "Eslint", "Webpack","Nginx","Git", "Docker"],
  website:"",
  currentlyLearning:["Nest.js"],
