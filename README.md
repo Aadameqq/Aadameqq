@@ -1,4 +1,4 @@
-### 👋Hi, My name is Adam and I am a Javascript developer
+### 👋Hi, My name is Adam and I am a Typescript developer
 
 ```javascript
 const Adam = {
@@ -8,9 +8,9 @@ const Adam = {
  tools:["Figma", "Eslint", "Webpack","Nginx","Git", "Docker"],
  website:"",
  currentlyLearning:["Everything about architecture"],
- currentlyWorkingOn:["improving https://github.com/Aadameqq/node-oauth2-implementation"]
+ currentlyWorkingOn:["Improving https://github.com/Aadameqq/node-oauth2-implementation"]
  favoriteIDE:"Webstorm",
- hobbies:["mountain biking", "math", "coding"],
+ hobbies:["Road cycling", "Math", "Coding"],
 }
 
 ```
