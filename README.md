@@ -7,7 +7,7 @@ const Adam = {
  "Oauth2","GoLang","Puppeteer","Redis","Nest.js","Swagger" ],
  tools:["Figma", "Eslint", "Webpack","Nginx","Git", "Docker"],
  website:"",
- currentlyLearning:["Everything about architecture"],
+ currentlyLearning:["Github Actions"],
  currentlyWorkingOn:"Improving https://github.com/Aadameqq/node-oauth2-implementation"
  favoriteIDE:"Webstorm",
  hobbies:["Road cycling", "Math", "Coding"],
