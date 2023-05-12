@@ -14,7 +14,6 @@ const Adam = {
 }
 
 ```
-##### Moje artykuły w języku polskim: https://ohmydev.pl/users/aadameqq
 
 ##### Contact me via discord: Aadameqq#7196
 
