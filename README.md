@@ -8,7 +8,6 @@ const Adam = {
  tools:["Figma", "Eslint", "Webpack","Nginx","Git", "Docker"],
  website:"",
  currentlyLearning:["Github Actions"],
- currentlyWorkingOn:"Improving https://github.com/Aadameqq/node-oauth2-implementation"
  favoriteIDE:"Webstorm",
  hobbies:["Road cycling", "Math", "Coding"],
 }
